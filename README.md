@@ -34,12 +34,9 @@ Run `rails s -e production` to start the project in production mode
 
 ## Run the application on Docker
 
-To run the *rails-example-project*, clone the project first from
-
-* https://github.com/LoserPanda/rails-example-project
+To run the *rails-example-project*, clone the project first.
 
 Now, in the project root run these two commands:
-
 
 ```
 docker build -t rails-example-project .
